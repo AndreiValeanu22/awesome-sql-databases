@@ -1,4 +1,4 @@
-# Awesome SQL Databases
+<img width="688" height="460" alt="image" src="https://github.com/user-attachments/assets/10d89dd8-706a-4b70-9470-9418cc8c5c26" /># Awesome SQL Databases
 
 Colectie de rezolvari pentru exercitii individuale din laboratoarele BD
 de pe OCW (UPB). In acest repo sunt incluse doar fisierele cerute, fara
@@ -32,12 +32,18 @@ Exercitii individuale:
 - Ex. 6. Să se implementeze o bază de date pentru cântece folosind următoarea diagramă.
 
 Diagrame (create de noi):
-- Ex. 1: ![LAB2 EX1 diagram](images/lab2_ex1_blog_diagram.png)
-- Ex. 2: ![LAB2 EX2 diagram](images/lab2_ex2_recipes_diagram.png)
-- Ex. 3: ![LAB2 EX3 diagram](images/lab2_ex3_fleet_diagram.png)
-- Ex. 4: ![LAB2 EX4 diagram](images/lab2_ex4_florist_diagram.png)
-- Ex. 5: ![LAB2 EX5 diagram](images/lab2_ex5_library_diagram.png)
-- Ex. 6: ![LAB2 EX6 diagram](images/lab2_ex6_music_diagram.png)
+- Ex. 1: ![LAB2 EX1 diagram](<img width="688" height="460" alt="image" src="https://github.com/user-attachments/assets/c89e2c7f-4b65-4b38-8505-06773d0ece48" />
+)
+- Ex. 2: ![LAB2 EX2 diagram](<img width="894" height="406" alt="image" src="https://github.com/user-attachments/assets/b3b64d12-3c8e-46a5-969f-18473c24beb6" />
+)
+- Ex. 3: ![LAB2 EX3 diagram](<img width="932" height="431" alt="image" src="https://github.com/user-attachments/assets/89836d57-f9a7-4f87-8516-506ca22125d8" />
+)
+- Ex. 4: ![LAB2 EX4 diagram](<img width="912" height="417" alt="image" src="https://github.com/user-attachments/assets/05fda3b6-2324-4793-b202-31bccfe6bed2" />
+)
+- Ex. 5: ![LAB2 EX5 diagram](<img width="654" height="484" alt="image" src="https://github.com/user-attachments/assets/c57b37db-fb64-4480-82ff-e0cad0ebe6f5" />
+)
+- Ex. 6: ![LAB2 EX6 diagram](<img width="828" height="572" alt="image" src="https://github.com/user-attachments/assets/807d6880-03d9-4be4-9e3c-dddd5bb273b6" />
+)
 
 Fisiere incluse:
 - `LAB2/cerinta1.sql` - `LAB2/cerinta6.sql`
