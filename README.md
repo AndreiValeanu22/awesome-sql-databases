@@ -31,6 +31,14 @@ Exercitii individuale:
 - Ex. 5. Să se implementeze o bază de date pentru o bibliotecă folosind următoarea diagramă.
 - Ex. 6. Să se implementeze o bază de date pentru cântece folosind următoarea diagramă.
 
+Diagrame (create de noi):
+- Ex. 1: ![LAB2 EX1 diagram](images/lab2_ex1_blog_diagram.png)
+- Ex. 2: ![LAB2 EX2 diagram](images/lab2_ex2_recipes_diagram.png)
+- Ex. 3: ![LAB2 EX3 diagram](images/lab2_ex3_fleet_diagram.png)
+- Ex. 4: ![LAB2 EX4 diagram](images/lab2_ex4_florist_diagram.png)
+- Ex. 5: ![LAB2 EX5 diagram](images/lab2_ex5_library_diagram.png)
+- Ex. 6: ![LAB2 EX6 diagram](images/lab2_ex6_music_diagram.png)
+
 Fisiere incluse:
 - `LAB2/cerinta1.sql` - `LAB2/cerinta6.sql`
 
